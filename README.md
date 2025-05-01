@@ -22,6 +22,7 @@ I'm a systems engineer. I'm expanding my knowledge in both front-end and back-en
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
@@ -40,3 +41,10 @@ I'm a systems engineer. I'm expanding my knowledge in both front-end and back-en
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
 </span>
+
+<div align="center">
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=MiguelT12&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MiguelT12)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelT12&theme=material-palenight)](https://github.com/MiguelT12)
+</div>

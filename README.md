@@ -42,9 +42,9 @@ I'm a systems engineer. I'm expanding my knowledge in both front-end and back-en
 
 </span>
 
-<div align="center">
+<div align="start">
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=MiguelT12&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MiguelT12)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelT12&theme=material-palenight)](https://github.com/MiguelT12)
+[![](https://github-readme-stats.vercel.app/api?username=Miguel12T&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Miguel12T)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Miguel12T&theme=material-palenight)](https://github.com/Miguel12T)
 </div>
